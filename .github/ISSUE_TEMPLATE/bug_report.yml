@@ -1,0 +1,146 @@
+name: Bug report
+description: Something in Parth doesn't work as it should.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this. The more detail you give, the faster it can be fixed.
+
+        - **Look first:** the [troubleshooting page](https://rslakra.github.io/parth-community/troubleshooting/) lists common problems and fixes, and you can [search the open issues](https://github.com/rslakra/parth-community/issues?q=is%3Aissue).
+        - **Security problem?** Don't post it here. Report it [privately](https://github.com/rslakra/parth-community/security/policy).
+        - **Never paste API keys or tokens.** Parth's logs don't contain them, but check screenshots and anything you copy.
+
+  - type: dropdown
+    id: ide
+    attributes:
+      label: Which IDE are you using?
+      options:
+        - VS Code
+        - Cursor
+        - Windsurf
+        - VSCodium
+        - Another editor built on VS Code (Trae, Positron, ...)
+        - IntelliJ IDEA
+        - PyCharm
+        - WebStorm
+        - GoLand
+        - Rider
+        - CLion
+        - Another JetBrains IDE
+        - Android Studio
+    validations:
+      required: true
+
+  - type: input
+    id: ide_version
+    attributes:
+      label: IDE version
+      description: "VS Code and forks: Help → About (on macOS: the editor's name menu → About). JetBrains: Help → About."
+      placeholder: "e.g. VS Code 1.139.0, or IntelliJ IDEA 2025.3"
+    validations:
+      required: true
+
+  - type: input
+    id: parth_version
+    attributes:
+      label: Parth version
+      description: "In the Parth panel: ⚙ → About. Or VS Code and forks: Extensions view → Parth. JetBrains: Settings → Plugins → Installed → Parth."
+      placeholder: "e.g. 0.1.34"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - macOS (Apple Silicon)
+        - macOS (Intel)
+        - Windows
+        - Linux
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: provider
+    attributes:
+      label: Which AI provider were you using?
+      description: Pick the closest one. Choose "Not related to a provider" if the problem happens before any request is sent.
+      options:
+        - Not related to a provider
+        - Anthropic (Claude)
+        - OpenAI
+        - OpenRouter
+        - Google Gemini API
+        - Google Vertex AI
+        - AWS Bedrock
+        - Azure OpenAI / Microsoft Foundry
+        - OpenAI-compatible server
+        - Company provider (an organization's AI gateway)
+        - Ollama
+        - LM Studio
+        - GitHub Copilot models (VS Code)
+        - Offline Mock model
+    validations:
+      required: true
+
+  - type: input
+    id: model
+    attributes:
+      label: Model (optional)
+      placeholder: "e.g. Claude Opus 5 High"
+
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened?
+      description: Describe the problem. Say what you saw, including any error message, word for word.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you click or type, in order? Which mode (Agent, Plan, Ask) and permissions (Manual, Auto Edit, Auto)?
+      placeholder: |
+        1. Open the Parth panel
+        2. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Parth log
+      description: |
+        Paste the lines from around the time it happened. The log never contains API keys.
+        - **VS Code and forks:** Command Palette → **Parth: Show Logs** (or `/logs` in the chat box).
+        - **JetBrains IDEs:** **⚙ → About → Show logs** in the Parth panel, which opens `idea.log`. Search it for `rslakra.parth`.
+      render: text
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots (optional)
+      description: Drag images into this box. Cover anything private first.
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched the existing issues and the troubleshooting page.
+          required: true
+        - label: I removed API keys, tokens and private code from everything I pasted.
+          required: true

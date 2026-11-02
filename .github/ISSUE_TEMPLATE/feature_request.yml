@@ -1,0 +1,82 @@
+name: Feature request
+description: Suggest something new, or a change to how Parth works.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea. Please [search the open issues](https://github.com/rslakra/parth-community/issues?q=is%3Aissue+label%3Aenhancement) first. If someone already asked for it, add a 👍 to that issue instead of opening a new one.
+
+        Describe the problem you're trying to solve first. A good problem statement helps more than a detailed design.
+
+  - type: dropdown
+    id: ide
+    attributes:
+      label: Which IDE is this for?
+      options:
+        - All IDEs
+        - VS Code and editors built on it (Cursor, Windsurf, VSCodium, ...)
+        - JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, ...)
+        - Cursor only
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part of Parth?
+      options:
+        - Chat and the panel
+        - Providers and models (including company providers and local models)
+        - Attaching files and context
+        - Modes (Agent, Plan, Ask)
+        - Permissions and commands
+        - Reviewing changes (Keep and Undo)
+        - Settings
+        - Installing and updating
+        - Documentation
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: What is hard, slow or impossible today?
+      placeholder: "When I ..., I can't ..., so I have to ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you like Parth to do?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What do you do instead today? (optional)
+      description: A workaround, or another tool that does this well.
+
+  - type: dropdown
+    id: importance
+    attributes:
+      label: How much does this matter to you?
+      options:
+        - Nice to have
+        - Would use it often
+        - Blocks me from using Parth for my work
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched the existing issues and this isn't a duplicate.
+          required: true

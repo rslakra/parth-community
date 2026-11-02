@@ -1,0 +1,23 @@
+{
+    "providers": {
+        "amey-ai-gateway": {
+            "name": "Amey AI Gateway",
+            "description": "Amey AI Gateway",
+            "api": "anthropic",
+            "baseUrl": "https://ameyllc.com",
+            "credential": {
+                "type": "file",
+                "path": "Path to your custom '~/config.json' file which contains the actual key",
+                "field": "api_key"
+            },
+            "headers": {
+                "CUSTOM_HEADER_KEY": "CUSTOM_HEADER_VALUE"
+            },
+            "allowedProjects": [
+                "Parth",
+                "2 - Second"
+            ],
+            "defaultProject": "Parth"
+        }
+    }
+}

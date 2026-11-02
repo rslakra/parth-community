@@ -69,6 +69,12 @@ intellij/src/main/resources/bundled/
 [Bb]uild/
 [Oo]ut/
 
+### Jekyll / GitHub Pages (local preview of docs/) ###
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+_site/
+
 ### JetBrains IDEs ###
 *.iml
 *.ipr
@@ -202,6 +208,11 @@ __pypackages__/
 .pyre/
 .pytype/
 dmypy.json
+
+### Ruby (local preview of docs/) ###
+.bundle/
+Gemfile.lock
+vendor/
 
 ### Secrets, keys and certificates ###
 #   DEPLOY.md creates private.pem and chain.crt; macOS signing uses a .p12.

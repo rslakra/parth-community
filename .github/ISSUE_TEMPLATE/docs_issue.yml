@@ -1,0 +1,26 @@
+name: Documentation problem
+description: A page here is wrong, unclear, out of date or missing something.
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      description: Paste the address from your browser, or the page's title.
+      placeholder: "https://rslakra.github.io/parth-community/install/vscode/"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong or missing?
+      description: Say what you tried to do, and where the page didn't help or was wrong.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What should it say? (optional)
