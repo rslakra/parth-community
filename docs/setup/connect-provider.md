@@ -9,6 +9,9 @@ nav_order: 1
 
 Parth doesn't come with a model. You connect **your own** account with an AI provider, once per provider. Your key is stored in the IDE's secure storage (your OS keychain), never in the chat.
 
+{: .note }
+**Open a project folder first.** Parth's agent only starts once a folder is open. If the chat box says **Open a folder or workspace to use Parth.**, the provider list below will be empty too. Open a folder with **File → Open Folder…** and it appears. See [the FAQ](../faq.md#open-a-folder).
+
 1. TOC
 {:toc}
 

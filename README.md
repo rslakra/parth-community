@@ -2,11 +2,17 @@
 
 **Parth is an AI coding agent inside your IDE.** Describe a change in the chat and it reads your code, edits it, updates the files that depend on the change, checks its work with the IDE's inspections, and shows every edit for review. Use any AI provider or a local model with your own account, and keep or undo each change.
 
-This repository is the public home of Parth for its users. It holds the **documentation** and the **issue tracker**. The source code isn't here.
-
-📖 **Docs site: <https://rslakra.github.io/parth-community/>**
+This repository is the **official public page of Parth**, the one the VS Code Marketplace, Open VSX and JetBrains Marketplace pages link to. It holds the **documentation** and the **issue tracker**, so this is where you report bugs and ask for features. The source code isn't here.
 
 <p align="center"><img src="docs/assets/screenshots/chat-and-changes.png" width="380" alt="The Parth chat panel: a request with two attached files, the agent's steps, a command approval card, and the list of changed files with Keep and Undo"></p>
+
+
+## Build status
+
+| Pages build | Docs site |
+|:------------|:----------|
+| [![pages-build-deployment](https://github.com/rslakra/parth-community/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rslakra/parth-community/actions/workflows/pages/pages-build-deployment) | <https://rslakra.github.io/parth-community/> |
+
 
 ## Install Parth in your IDE
 

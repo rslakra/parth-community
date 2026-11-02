@@ -33,7 +33,7 @@ Open a project folder (**File → Open…**). The agent can only see and change 
 - **VS Code** (and Cursor, Windsurf, …): click the **Parth** icon in the Activity Bar, or run **Parth: Focus on Chat View** from the Command Palette.
 - **JetBrains IDEs:** click **Parth** on the right edge.
 
-If no project is open, Parth says **Open a folder or workspace to use Parth.**
+If no project is open, Parth says **Open a folder or workspace to use Parth.** and waits: open a folder first. Until you do, the Providers list is empty as well. See [the FAQ](../faq.md#open-a-folder).
 
 ## The panel, from top to bottom
 

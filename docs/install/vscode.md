@@ -14,7 +14,7 @@ nav_order: 1
 
 - **VS Code 1.95 or newer.** Check in **Help → About** (on macOS: **Code → About Visual Studio Code**).
 - **Desktop VS Code.** vscode.dev and github.dev can't run Parth.
-- **A folder or workspace to open.** Parth can only see and change files inside it.
+- **A folder or workspace to open.** Parth can only see and change files inside it, and it doesn't start until one is open. A new VS Code window is empty, so use **File → Open Folder…** first (see [the FAQ](../faq.md#open-a-folder)).
 - **An AI provider account**, or a local model server such as Ollama. You connect it after installing.
 
 ## Install

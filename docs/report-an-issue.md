@@ -1,6 +1,6 @@
 ---
 title: Report a bug or request a feature
-nav_order: 6
+nav_order: 7
 ---
 
 # Report a bug or request a feature

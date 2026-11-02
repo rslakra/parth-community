@@ -18,9 +18,9 @@ Parth comes as **one extension or plugin per kind of IDE**. You install it the w
 | Your IDE | What you install | Where it comes from | Guide |
 |---|---|---|---|
 | VS Code | The Parth extension | VS Code Marketplace (`ameyllc.parth`) | [VS Code](vscode.md) |
-| Cursor | The same extension | Open VSX | [Cursor](cursor.md) |
-| Windsurf, VSCodium, Trae, Positron, other VS Code forks | The same extension | Open VSX | [Other VS Code-based editors](other-vscode-editors.md) |
 | IntelliJ IDEA, PyCharm, WebStorm, GoLand, Rider, CLion and other JetBrains IDEs | The Parth plugin | JetBrains Marketplace | [JetBrains IDEs](jetbrains.md) |
+| Cursor | The Parth extension (the same one as for VS Code) | Open VSX | [Cursor](cursor.md) |
+| Windsurf, VSCodium, Trae, Positron, other VS Code forks | The Parth extension (the same one as for VS Code) | Open VSX | [Other VS Code-based editors](other-vscode-editors.md) |
 
 Other editors (Visual Studio, Eclipse, Xcode, Zed, Neovim, …) aren't supported: they can't load either one. Browser editors such as vscode.dev and github.dev can't run it either, because the agent runs as a local process.
 

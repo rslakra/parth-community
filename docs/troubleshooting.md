@@ -11,6 +11,8 @@ nav_order: 5
 
 If your problem isn't here, [report it](report-an-issue.md). The log is the first thing to look at.
 
+New to Parth, or not sure what a message means? The [FAQ](faq.md) explains the messages in the chat box, such as **Open a folder or workspace to use Parth.**
+
 ## Logs
 
 ### VS Code, Cursor, Windsurf, VSCodium and other VS Code-based editors
@@ -86,7 +88,7 @@ When a later VS Code release fixes drag and drop, set `update.mode` back to its 
 | Drag and drop onto the chat does nothing in VS Code, and no "Drop to add to chat" outline shows | VS Code updated to 1.140.0, which broke drops into the chat panel | Attach with `@`, 📎 or right-click → **Add to Parth Chat**, or go back to 1.139.0: see [above](#vs-code-1140-drag-and-drop-stops-working) |
 | "Starting the agent…" never goes away | The agent process didn't start | Open the log (above). Then **⚙ → About → Restart agent** (or **Parth: Restart Agent Core** in VS Code's Command Palette, or **Tools → Parth → Restart Agent Core** in a JetBrains IDE) |
 | "Node.js 20 or newer is needed…" (JetBrains, plugin installed from a file) | Node.js isn't installed, or the IDE can't find it | Install Node.js 20+, or set its path in **Settings → Tools → Parth → Node.js path** (for example `/opt/homebrew/bin/node`, from `which node`) |
-| "Open a folder or workspace to use Parth." | No project is open | **File → Open…** a folder |
+| "Open a folder or workspace to use Parth." (and no providers listed under **Available Providers**) | No project is open, so Parth's agent hasn't started | **File → Open Folder…**, then connect a provider. See [the FAQ](faq.md#open-a-folder) |
 | "Unable to install extension … not compatible with VS Code 1.x" (Cursor, Windsurf, …) | The editor is built on a VS Code older than 1.95 | Update the editor. See [Install in Cursor](install/cursor.md) |
 | No Parth icon in Cursor or Windsurf | The Activity Bar is at the top of the side bar, or the icon is hidden behind **⋯** | Command Palette → **Parth: Focus on Chat View** |
 | The chat doesn't open in Android Studio | Its bundled Java runtime has no embedded browser (JCEF) | Use VS Code or another JetBrains IDE. See [Install in a JetBrains IDE](install/jetbrains.md) |

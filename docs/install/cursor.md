@@ -15,7 +15,7 @@ Cursor is built on VS Code, so it runs the **same Parth extension**. Cursor gets
 ## Before you start
 
 - **A Cursor built on VS Code 1.95 or newer.** Open Cursor's **About** dialog (on macOS: **Cursor → About Cursor**). It shows the VS Code version Cursor is built on. An older one refuses the install with *"Unable to install extension … as it is not compatible with VS Code 1.x"*: update Cursor.
-- **A folder open.** Parth can only see and change files inside it.
+- **A folder open.** Parth can only see and change files inside it, and it doesn't start until one is open: use **File → Open Folder…** first (see [the FAQ](../faq.md#open-a-folder)).
 - **An AI provider account**, or a local model server such as Ollama.
 
 ## Install

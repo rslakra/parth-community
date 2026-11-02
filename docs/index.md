@@ -46,6 +46,7 @@ You stay in control the whole time: [permissions](setup/permissions.md) decide w
 
 | | |
 |---|---|
+| A message or setting you don't understand | [FAQ](faq.md) |
 | Something doesn't work | [Troubleshooting](troubleshooting.md) |
 | You found a bug, or want a feature | [Report a bug or request a feature](report-an-issue.md) |
 | What changed in each version | [Changelog](changelog.md) |

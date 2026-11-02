@@ -3,6 +3,7 @@
 | You need… | Do this |
 |---|---|
 | **To install or set up Parth** | Read the [docs](https://rslakra.github.io/parth-community/). Each IDE has its own install guide |
+| **To understand a message or a setting** | Read the [FAQ](https://rslakra.github.io/parth-community/faq/) |
 | **A fix for an error you see** | Check [Troubleshooting](https://rslakra.github.io/parth-community/troubleshooting/) |
 | **To ask how to do something** | Start a thread in [Discussions](https://github.com/rslakra/parth-community/discussions) |
 | **To report a bug** | [Open a bug report](https://github.com/rslakra/parth-community/issues/new?template=bug_report.yml) |

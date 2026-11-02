@@ -8,7 +8,7 @@ body:
       value: |
         Thanks for reporting this. The more detail you give, the faster it can be fixed.
 
-        - **Look first:** the [troubleshooting page](https://rslakra.github.io/parth-community/troubleshooting/) lists common problems and fixes, and you can [search the open issues](https://github.com/rslakra/parth-community/issues?q=is%3Aissue).
+        - **Look first:** the [FAQ](https://rslakra.github.io/parth-community/faq/) explains the messages in the chat box (for example *Open a folder or workspace to use Parth.*), the [troubleshooting page](https://rslakra.github.io/parth-community/troubleshooting/) lists common problems and fixes, and you can [search the open issues](https://github.com/rslakra/parth-community/issues?q=is%3Aissue).
         - **Security problem?** Don't post it here. Report it [privately](https://github.com/rslakra/parth-community/security/policy).
         - **Never paste API keys or tokens.** Parth's logs don't contain them, but check screenshots and anything you copy.
 
