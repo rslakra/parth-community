@@ -40,6 +40,7 @@ Before you file a bug, the [troubleshooting page](https://rslakra.github.io/part
 | [`docs/`](docs/) | The documentation site (GitHub Pages, built from this folder) |
 | [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | The bug, feature and documentation issue forms |
 | [`SUPPORT.md`](SUPPORT.md), [`SECURITY.md`](SECURITY.md) | Where to get help, and how to report a vulnerability |
+| [`LICENSE`](LICENSE) | The proprietary license (the same as Parth's) |
 | [`MAINTAINING.md`](MAINTAINING.md) | For the maintainers: one-time GitHub setup, previewing the site, and what to update on each release |
 
 ## Privacy
@@ -48,4 +49,4 @@ Parth has no servers and collects no telemetry. Your prompts and the files the a
 
 ## License
 
-Parth is proprietary software. Copyright © 2026 Amey LLC. All rights reserved. The license for the extension and plugin comes with them.
+Parth is proprietary software. Copyright © 2026 Amey LLC. All rights reserved. See [LICENSE](LICENSE). It covers Parth and its documentation, icons and other assets, including everything in this repository. It isn't an open-source license: the documentation here is public so you can read it, not so you can copy or redistribute it.

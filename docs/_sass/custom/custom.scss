@@ -1,0 +1,29 @@
+// Parth: style tweaks on top of just-the-docs. The theme loads this file last, so these rules win.
+
+// How wide the page content may be on a wide screen. The theme's default is 50rem.
+$parth-content-width: 64rem;
+
+// 1. The sidebar has the same background as the page (the theme tints it grey-lavender).
+.side-bar {
+  background-color: $body-background-color;
+}
+
+// On small screens the theme also tints the top bar that holds the menu button.
+.side-bar + .main .main-header {
+  background-color: $body-background-color;
+}
+
+// 2. On wide screens the theme grows the sidebar with the window and pushes the menu to its right
+//    edge, which leaves a wide empty strip on the left. Keep the sidebar a fixed width instead, with
+//    the menu at the left edge, and let the content start right after it.
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: $nav-width;
+    align-items: flex-start;
+  }
+
+  .side-bar + .main {
+    margin-left: $nav-width;
+    max-width: $parth-content-width;
+  }
+}

@@ -1,11 +1,13 @@
 {%- comment -%}
-  A centred screenshot (or two side by side) from /assets/screenshots/.
-  Usage: {% include screenshot.html src="composer.png" width="320" alt="What the picture shows" %}
-  Optional: src2 and alt2 for a second picture next to it.
+A centred screenshot (or two side by side) from /assets/screenshots/.
+Usage: {% include screenshot.html src="composer.png" width="320" alt="What the picture shows" %}
+Optional: src2 and alt2 for a second picture next to it.
 {%- endcomment -%}
 <p align="center">
-  <img src="{{ '/assets/screenshots/' | append: include.src | relative_url }}" width="{{ include.width | default: 320 }}" alt="{{ include.alt }}">
+  <img src="{{ '/assets/screenshots/' | append: include.src | relative_url }}"
+    width="{{ include.width | default: 320 }}" alt="{{ include.alt }}">
   {%- if include.src2 %}
-  <img src="{{ '/assets/screenshots/' | append: include.src2 | relative_url }}" width="{{ include.width | default: 320 }}" alt="{{ include.alt2 }}">
+  <img src="{{ '/assets/screenshots/' | append: include.src2 | relative_url }}"
+    width="{{ include.width | default: 320 }}" alt="{{ include.alt2 }}">
   {%- endif %}
 </p>
