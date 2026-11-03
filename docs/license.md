@@ -6,10 +6,6 @@ nav_order: 11
 # License
 {: .no_toc }
 
-This page mirrors the [LICENSE](https://github.com/rslakra/parth-community/blob/main/LICENSE) file in the repository.
-
----
-
 **Proprietary Software License**
 
 Copyright (c) 2026 Amey LLC. All rights reserved.
