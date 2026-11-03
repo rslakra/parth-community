@@ -32,7 +32,7 @@ aux_links:
   "VS Code Marketplace": https://marketplace.visualstudio.com/items?itemName=ameyllc.parth
 aux_links_new_tab: true
 
-footer_content: "Copyright &copy; 2026 Amey LLC. All rights reserved. <a href=\"https://github.com/rslakra/parth-community/blob/main/LICENSE\">License</a>"
+footer_content: "Copyright &copy; 2026 Amey LLC. All rights reserved. <a href=\"https://rslakra.github.io/parth-community/license/\">License</a>"
 
 callouts:
   note:
