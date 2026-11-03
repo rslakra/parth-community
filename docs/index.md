@@ -16,9 +16,9 @@ description: Install Parth, set it up, and get help.
 | Your IDE | Where you get Parth | Guide |
 |---|---|---|
 | **VS Code** | VS Code Marketplace | [Install in VS Code](install/vscode.md) |
+| **IntelliJ IDEA, PyCharm, WebStorm, GoLand, Rider, CLion** and other JetBrains IDEs (2025.2 or newer) | JetBrains Marketplace | [Install in a JetBrains IDE](install/jetbrains.md) |
 | **Cursor** | Open VSX, from Cursor's Extensions view | [Install in Cursor](install/cursor.md) |
 | **Windsurf, VSCodium, Trae, Positron**, and other editors built on VS Code | Open VSX | [Install in other VS Code-based editors](install/other-vscode-editors.md) |
-| **IntelliJ IDEA, PyCharm, WebStorm, GoLand, Rider, CLion** and other JetBrains IDEs (2025.2 or newer) | JetBrains Marketplace | [Install in a JetBrains IDE](install/jetbrains.md) |
 
 Not sure which one applies, or what Parth needs? See [Install: requirements and differences](install/index.md).
 

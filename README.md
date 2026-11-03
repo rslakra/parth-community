@@ -22,9 +22,9 @@ This repository is the **official public page of Parth**, the one the VS Code Ma
 | Your IDE | Get it from | Step-by-step guide |
 |---|---|---|
 | **VS Code** | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth) | [Install in VS Code](https://rslakra.github.io/parth-community/install/vscode/) |
+| **IntelliJ IDEA, PyCharm, WebStorm, GoLand, Rider, CLion** and other JetBrains IDEs, 2025.2 or newer | JetBrains Marketplace | [Install in a JetBrains IDE](https://rslakra.github.io/parth-community/install/jetbrains/) |
 | **Cursor** | Open VSX (Cursor's Extensions view) | [Install in Cursor](https://rslakra.github.io/parth-community/install/cursor/) |
 | **Windsurf, VSCodium, Trae, Positron** and other VS Code-based editors | Open VSX | [Install in other VS Code-based editors](https://rslakra.github.io/parth-community/install/other-vscode-editors/) |
-| **IntelliJ IDEA, PyCharm, WebStorm, GoLand, Rider, CLion** and other JetBrains IDEs, 2025.2 or newer | JetBrains Marketplace | [Install in a JetBrains IDE](https://rslakra.github.io/parth-community/install/jetbrains/) |
 
 Then follow [Set up Parth](https://rslakra.github.io/parth-community/setup/): connect an AI provider, pick a model and a mode, attach files, ask for a change and review it.
 
