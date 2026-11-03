@@ -9,6 +9,8 @@ nav_order: 2
 
 The Parth plugin works in any JetBrains IDE **2025.2 (build 252) or newer**: IntelliJ IDEA, PyCharm, WebStorm, GoLand, Rider, CLion and the rest. For example, PyCharm 2025.2, IntelliJ IDEA 2025.3 and IntelliJ IDEA 2026.1 all work.
 
+{% include jetbrains-widget.html kind="both" %}
+
 1. TOC
 {:toc}
 
@@ -27,6 +29,8 @@ Android Studio **2025.2.1 or newer** installs the plugin, but its bundled Java r
 ## Install
 
 ### From the JetBrains Marketplace (recommended)
+
+The quickest way is the **Install** button at the top of this page, or the [Parth page on the JetBrains Marketplace](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent). Or do it from inside the IDE:
 
 1. Open **Settings** (<kbd>Cmd</kbd>+<kbd>,</kbd> on macOS; **File → Settings** or <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd> on Windows and Linux) → **Plugins**.
 2. Open the **Marketplace** tab and search for **Parth**.

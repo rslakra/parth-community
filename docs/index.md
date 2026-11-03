@@ -13,6 +13,11 @@ description: Install Parth, set it up, and get help.
 
 ## Start here: pick your IDE
 
+[Install for VS Code](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Install for JetBrains IDEs](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
+
+Cursor, Windsurf, VSCodium and other VS Code-based editors install from Open VSX: see the guides below.
+
 | Your IDE | Where you get Parth | Guide |
 |---|---|---|
 | **VS Code** | VS Code Marketplace | [Install in VS Code](install/vscode.md) |

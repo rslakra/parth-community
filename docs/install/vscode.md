@@ -7,6 +7,9 @@ nav_order: 1
 # Install Parth in VS Code
 {: .no_toc }
 
+[Install from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Open in VS Code](vscode:extension/ameyllc.parth){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 1. TOC
 {:toc}
 

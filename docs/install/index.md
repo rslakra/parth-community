@@ -10,6 +10,9 @@ permalink: /install/
 
 Parth comes as **one extension or plugin per kind of IDE**. You install it the way you install anything else in that IDE, from its own marketplace. There is no server to set up: each person connects **their own** AI provider account inside Parth.
 
+[Install for VS Code](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Install for JetBrains IDEs](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
+
 1. TOC
 {:toc}
 

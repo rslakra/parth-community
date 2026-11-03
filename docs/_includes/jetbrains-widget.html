@@ -1,0 +1,28 @@
+{%- comment -%}
+JetBrains Marketplace widget for Parth (plugin 35700): the plugin card and/or the "Install" button.
+Usage: {% include jetbrains-widget.html kind="card" %}
+       {% include jetbrains-widget.html kind="install" %}
+       {% include jetbrains-widget.html kind="both" %}
+Use it once per page: it loads the widget script each time it's included.
+If JavaScript is off or blocked, the noscript link still leads to the Marketplace page.
+{%- endcomment -%}
+{%- assign jb_url = "https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent" -%}
+{%- assign jb_kind = include.kind | default: "both" -%}
+<div class="jb-widgets">
+  {%- if jb_kind == "card" or jb_kind == "both" %}
+  <div id="jb-parth-card"></div>
+  {%- endif %}
+  {%- if jb_kind == "install" or jb_kind == "both" %}
+  <div id="jb-parth-install"></div>
+  {%- endif %}
+  <noscript><a href="{{ jb_url }}">Get Parth on the JetBrains Marketplace</a></noscript>
+</div>
+<script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
+<script>
+  {%- if jb_kind == "card" or jb_kind == "both" %}
+  MarketplaceWidget.setupMarketplaceWidget('card', 35700, "#jb-parth-card");
+  {%- endif %}
+  {%- if jb_kind == "install" or jb_kind == "both" %}
+  MarketplaceWidget.setupMarketplaceWidget('install', 35700, "#jb-parth-install");
+  {%- endif %}
+</script>
