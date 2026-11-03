@@ -51,6 +51,8 @@ Connect providers here: see [Connect a provider](connect-provider.md). Under **C
 
 Shows the Parth **version** (include it when you [report a problem](../report-an-issue.md)), **Show logs**, and **Restart agent**, which restarts the agent process if it's stuck.
 
+It also has **Help and feedback** links: the documentation, the [FAQ](../faq.md), and a link to report a problem or request a feature. In VS Code and JetBrains IDEs, **Enjoying Parth?** has a link to leave a review in the IDE's store, and one to star the project on GitHub.
+
 ## Settings in VS Code
 
 Open **Settings** (<kbd>Cmd</kbd>+<kbd>,</kbd>; <kbd>Ctrl</kbd>+<kbd>,</kbd> on Windows and Linux) and search for **Parth**, or edit `settings.json`. The same applies to Cursor, Windsurf and the other editors built on VS Code.

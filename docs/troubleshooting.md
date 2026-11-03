@@ -54,7 +54,7 @@ The logs never contain API keys.
 
 ## Known issues
 
-### VS Code 1.140.0: drag and drop stops working
+### VS Code 1.140.0: drag and drop stops working {#vs-code-1140-drag-and-drop-stops-working}
 
 **Symptom (VS Code only):** dragging files from the Explorer onto the Parth chat does nothing, even with <kbd>Shift</kbd> held, and the "Drop to add to chat" outline never shows.
 
