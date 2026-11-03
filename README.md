@@ -13,12 +13,8 @@ This repository is the **official public page of Parth**, the one the VS Code Ma
 |:------------|:----------|
 | [![pages-build-deployment](https://github.com/rslakra/parth-community/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rslakra/parth-community/actions/workflows/pages/pages-build-deployment) | <https://rslakra.github.io/parth-community/> |
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/ameyllc.parth?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth)
-[![VS Code installs](https://img.shields.io/visual-studio-marketplace/i/ameyllc.parth?label=installs)](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth)
-[![VS Code rating](https://img.shields.io/visual-studio-marketplace/r/ameyllc.parth?label=rating)](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth&ssr=false#review-details)
-[![JetBrains Marketplace](https://img.shields.io/jetbrains/plugin/v/35700?label=JetBrains%20Marketplace)](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent)
-[![JetBrains downloads](https://img.shields.io/jetbrains/plugin/d/35700?label=downloads)](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent)
-[![JetBrains rating](https://img.shields.io/jetbrains/plugin/r/rating/35700?label=rating)](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent/reviews)
+[![Install in VS Code](https://img.shields.io/badge/VS%20Code-Install-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth)
+[![Install in a JetBrains IDE](https://img.shields.io/badge/JetBrains-Install-000000?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent)
 
 
 ## Install Parth in your IDE
