@@ -1,7 +1,7 @@
 ---
 title: Windsurf, VSCodium and other editors
 parent: Install
-nav_order: 3
+nav_order: 4
 ---
 
 # Install Parth in Windsurf, VSCodium and other VS Code-based editors

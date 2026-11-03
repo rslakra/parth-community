@@ -1,7 +1,7 @@
 ---
 title: Cursor
 parent: Install
-nav_order: 2
+nav_order: 3
 ---
 
 # Install Parth in Cursor

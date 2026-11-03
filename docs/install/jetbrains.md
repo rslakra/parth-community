@@ -1,7 +1,7 @@
 ---
 title: JetBrains IDEs
 parent: Install
-nav_order: 4
+nav_order: 2
 ---
 
 # Install Parth in IntelliJ IDEA and other JetBrains IDEs
