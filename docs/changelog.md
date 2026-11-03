@@ -8,7 +8,7 @@ nav_order: 8
 
 What changed in each version of Parth. The version numbers are the same for the VS Code extension, the JetBrains plugin and the Cursor plugin. To see which one you have, click **⚙ → About** in the Parth panel.
 
-Found something that isn't fixed? [Report it](report-an-issue.md).
+Found something that isn't fixed? [Report it](report-an-issue.md). Like what's new? A short [review](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth&ssr=false#review-details) helps other developers find Parth.
 
 ## 0.1.34
 

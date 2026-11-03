@@ -13,6 +13,9 @@ This repository is the **official public page of Parth**, the one the VS Code Ma
 |:------------|:----------|
 | [![pages-build-deployment](https://github.com/rslakra/parth-community/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rslakra/parth-community/actions/workflows/pages/pages-build-deployment) | <https://rslakra.github.io/parth-community/> |
 
+[![Install in VS Code](https://img.shields.io/badge/VS%20Code-Install-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth)
+[![Install in a JetBrains IDE](https://img.shields.io/badge/JetBrains-Install-000000?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent)
+
 
 ## Install Parth in your IDE
 
@@ -48,6 +51,16 @@ Before you file a bug, the [troubleshooting page](https://rslakra.github.io/part
 | [`SUPPORT.md`](SUPPORT.md), [`SECURITY.md`](SECURITY.md) | Where to get help, and how to report a vulnerability |
 | [`LICENSE`](LICENSE) | The proprietary license (the same as Parth's) |
 | [`MAINTAINING.md`](MAINTAINING.md) | For the maintainers: one-time GitHub setup, previewing the site, and what to update on each release |
+
+## ⭐ Enjoying Parth?
+
+A short review helps other developers find it, and tells us what to improve.
+
+- [Rate Parth on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth&ssr=false#review-details)
+- [Rate Parth on the JetBrains Marketplace](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent/reviews)
+- Star this repository (the ⭐ button at the top of this page)
+
+Not working the way you hoped? [Report it](https://github.com/rslakra/parth-community/issues/new?template=bug_report.yml): that's the fastest way to get it fixed.
 
 ## Privacy
 

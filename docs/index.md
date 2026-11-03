@@ -51,3 +51,13 @@ You stay in control the whole time: [permissions](setup/permissions.md) decide w
 | You found a bug, or want a feature | [Report a bug or request a feature](report-an-issue.md) |
 | What changed in each version | [Changelog](changelog.md) |
 | How your data is handled | [Privacy](privacy.md) and [Security](security.md) |
+
+## Enjoying Parth?
+
+A short review helps other developers find it, and tells us what to improve.
+
+- ⭐ [Rate Parth on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth&ssr=false#review-details)
+- ⭐ [Rate Parth on the JetBrains Marketplace](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent/reviews)
+- 🌟 [Star this project on GitHub](https://github.com/rslakra/parth-community)
+
+Not working the way you hoped? [Report it](report-an-issue.md): that's the fastest way to get it fixed.
