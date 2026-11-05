@@ -13,7 +13,7 @@ nav_order: 10
 
 Please report vulnerabilities **privately**, not in public issues, pull requests or discussions:
 
-- Use GitHub's **Report a vulnerability** button on this repository's [Security tab](https://github.com/rslakra/parth-community/security/advisories/new), or
+- Use GitHub's **Report a vulnerability** button on this repository's [Security tab](https://github.com/rslakra/parth-docs/security/advisories/new), or
 - email **lakra.amey@gmail.com**.
 
 Please include:

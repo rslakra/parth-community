@@ -1,5 +1,5 @@
 # Parth community site: built by GitHub Pages (Settings → Pages → Deploy from a branch → main, /docs).
-# Published at https://rslakra.github.io/parth-community/
+# Published at https://rslakra.github.io/parth-docs/
 
 title: Parth
 description: Install Parth, set it up, and get help. For VS Code, Cursor, Windsurf, VSCodium and JetBrains IDEs.
@@ -19,7 +19,7 @@ relative_links:
 permalink: pretty
 
 url: https://rslakra.github.io
-baseurl: /parth-community
+baseurl: /parth-docs
 
 logo: /assets/images/parth-logo.png
 search_enabled: true
@@ -28,11 +28,11 @@ back_to_top: true
 back_to_top_text: Back to top
 
 aux_links:
-  "Report an issue": https://github.com/rslakra/parth-community/issues/new/choose
+  "Report an issue": https://github.com/rslakra/parth-docs/issues/new/choose
   "VS Code Marketplace": https://marketplace.visualstudio.com/items?itemName=ameyllc.parth
 aux_links_new_tab: true
 
-footer_content: "Copyright &copy; 2026 Amey LLC. All rights reserved. <a href=\"https://rslakra.github.io/parth-community/license/\">License</a>"
+footer_content: "Copyright &copy; 2026 Amey LLC. All rights reserved. <a href=\"https://rslakra.github.io/parth-docs/license/\">License</a>"
 
 callouts:
   note:

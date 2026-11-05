@@ -63,6 +63,6 @@ A short review helps other developers find it, and tells us what to improve.
 
 - ⭐ [Rate Parth on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth&ssr=false#review-details)
 - ⭐ [Rate Parth on the JetBrains Marketplace](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent/reviews)
-- 🌟 [Star this project on GitHub](https://github.com/rslakra/parth-community)
+- 🌟 [Star this project on GitHub](https://github.com/rslakra/parth-docs)
 
 Not working the way you hoped? [Report it](report-an-issue.md): that's the fastest way to get it fixed.

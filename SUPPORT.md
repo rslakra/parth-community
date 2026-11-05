@@ -2,12 +2,12 @@
 
 | You need… | Do this |
 |---|---|
-| **To install or set up Parth** | Read the [docs](https://rslakra.github.io/parth-community/). Each IDE has its own install guide |
-| **To understand a message or a setting** | Read the [FAQ](https://rslakra.github.io/parth-community/faq/) |
-| **A fix for an error you see** | Check [Troubleshooting](https://rslakra.github.io/parth-community/troubleshooting/) |
-| **To ask how to do something** | Start a thread in [Discussions](https://github.com/rslakra/parth-community/discussions) |
-| **To report a bug** | [Open a bug report](https://github.com/rslakra/parth-community/issues/new?template=bug_report.yml) |
-| **To suggest a feature** | [Open a feature request](https://github.com/rslakra/parth-community/issues/new?template=feature_request.yml) |
+| **To install or set up Parth** | Read the [docs](https://rslakra.github.io/parth-docs/). Each IDE has its own install guide |
+| **To understand a message or a setting** | Read the [FAQ](https://rslakra.github.io/parth-docs/faq/) |
+| **A fix for an error you see** | Check [Troubleshooting](https://rslakra.github.io/parth-docs/troubleshooting/) |
+| **To ask how to do something** | Start a thread in [Discussions](https://github.com/rslakra/parth-docs/discussions) |
+| **To report a bug** | [Open a bug report](https://github.com/rslakra/parth-docs/issues/new?template=bug_report.yml) |
+| **To suggest a feature** | [Open a feature request](https://github.com/rslakra/parth-docs/issues/new?template=feature_request.yml) |
 | **To report a security problem** | Follow [SECURITY.md](SECURITY.md). Don't post it publicly |
 
 ## When you report a bug, include
@@ -21,4 +21,4 @@
 
 The logs never contain API keys. Still, remove anything private from what you paste.
 
-The full guide is at <https://rslakra.github.io/parth-community/report-an-issue/>.
+The full guide is at <https://rslakra.github.io/parth-docs/report-an-issue/>.

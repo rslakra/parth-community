@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Ask a question or get help
-    url: https://github.com/rslakra/parth-community/discussions
+    url: https://github.com/rslakra/parth-docs/discussions
     about: How do I...? Questions and ideas that aren't bugs go in Discussions.
   - name: Read the docs
-    url: https://rslakra.github.io/parth-community/
+    url: https://rslakra.github.io/parth-docs/
     about: Install and set up Parth in your IDE, and fix common problems.
   - name: Report a security vulnerability (private)
-    url: https://github.com/rslakra/parth-community/security/policy
+    url: https://github.com/rslakra/parth-docs/security/policy
     about: Please don't post security problems in a public issue. Follow the private reporting steps.

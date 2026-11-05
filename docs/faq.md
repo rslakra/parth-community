@@ -145,9 +145,9 @@ Your prompts, the files you attach, and the file contents the agent reads to ans
 ## Still have a question?
 
 - Check [Troubleshooting](troubleshooting.md) for a specific error.
-- Ask in [Discussions](https://github.com/rslakra/parth-community/discussions).
+- Ask in [Discussions](https://github.com/rslakra/parth-docs/discussions).
 - [Report a bug or request a feature](report-an-issue.md).
 
 ## Enjoying Parth?
 
-A short review helps other developers find it: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth&ssr=false#review-details) · [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent/reviews) · [star the project on GitHub](https://github.com/rslakra/parth-community).
+A short review helps other developers find it: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth&ssr=false#review-details) · [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent/reviews) · [star the project on GitHub](https://github.com/rslakra/parth-docs).

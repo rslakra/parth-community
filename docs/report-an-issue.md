@@ -15,17 +15,17 @@ Bugs, feature requests and documentation problems are all filed as **issues** in
 
 | I want to… | Go here |
 |---|---|
-| 🐞 Report something that doesn't work | [New bug report](https://github.com/rslakra/parth-community/issues/new?template=bug_report.yml) |
-| 💡 Suggest something new | [New feature request](https://github.com/rslakra/parth-community/issues/new?template=feature_request.yml) |
-| 📄 Tell us a page here is wrong or unclear | [New documentation issue](https://github.com/rslakra/parth-community/issues/new?template=docs_issue.yml) |
-| ❓ Ask how to do something | [Discussions](https://github.com/rslakra/parth-community/discussions) |
+| 🐞 Report something that doesn't work | [New bug report](https://github.com/rslakra/parth-docs/issues/new?template=bug_report.yml) |
+| 💡 Suggest something new | [New feature request](https://github.com/rslakra/parth-docs/issues/new?template=feature_request.yml) |
+| 📄 Tell us a page here is wrong or unclear | [New documentation issue](https://github.com/rslakra/parth-docs/issues/new?template=docs_issue.yml) |
+| ❓ Ask how to do something | [Discussions](https://github.com/rslakra/parth-docs/discussions) |
 | 🔒 Report a security vulnerability | **Privately**: see [Security](security.md#reporting-a-vulnerability). Never in a public issue |
-| 👀 See what's already reported | [Open issues](https://github.com/rslakra/parth-community/issues) |
+| 👀 See what's already reported | [Open issues](https://github.com/rslakra/parth-docs/issues) |
 
 You need a free GitHub account to file an issue.
 
 {: .tip }
-Search the [open issues](https://github.com/rslakra/parth-community/issues?q=is%3Aissue) first. If someone already reported it, add a 👍 or a comment with your details instead of opening a new one. For a feature request, a 👍 on the existing issue is the best way to say you want it too.
+Search the [open issues](https://github.com/rslakra/parth-docs/issues?q=is%3Aissue) first. If someone already reported it, add a 👍 or a comment with your details instead of opening a new one. For a feature request, a 👍 on the existing issue is the best way to say you want it too.
 
 ## Report a bug
 
@@ -92,4 +92,4 @@ Click **New feature request** above. The form asks:
 
 - If something **used to work and doesn't**, or an error appears: it's a **bug**.
 - If it works as described but you want it different: it's a **feature request**.
-- If you're not sure how to do something: ask in [Discussions](https://github.com/rslakra/parth-community/discussions).
+- If you're not sure how to do something: ask in [Discussions](https://github.com/rslakra/parth-docs/discussions).

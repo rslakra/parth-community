@@ -4,7 +4,7 @@
 
 Please report vulnerabilities **privately**, not in public issues, discussions or pull requests:
 
-- Use GitHub's **Report a vulnerability** button on this repository's [Security tab](https://github.com/rslakra/parth-community/security/advisories/new), or
+- Use GitHub's **Report a vulnerability** button on this repository's [Security tab](https://github.com/rslakra/parth-docs/security/advisories/new), or
 - email **lakra.amey@gmail.com**.
 
 Please include:
@@ -24,4 +24,4 @@ Please include:
 
 Only the **latest release** of each product gets security fixes. A fix ships as a new patch version.
 
-The scope, and what you can rely on in a release, are on the [security page](https://rslakra.github.io/parth-community/security/) of the docs.
+The scope, and what you can rely on in a release, are on the [security page](https://rslakra.github.io/parth-docs/security/) of the docs.

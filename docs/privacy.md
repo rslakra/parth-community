@@ -32,4 +32,4 @@ The JetBrains plugin may download its agent-core binary once from the project's 
 
 ## Questions
 
-Ask in [Discussions](https://github.com/rslakra/parth-community/discussions), or see [Security](security.md) to report a vulnerability.
+Ask in [Discussions](https://github.com/rslakra/parth-docs/discussions), or see [Security](security.md) to report a vulnerability.
