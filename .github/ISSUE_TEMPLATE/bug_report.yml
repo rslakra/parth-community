@@ -18,18 +18,18 @@ body:
       label: Which IDE are you using?
       options:
         - VS Code
-        - Cursor
-        - Windsurf
-        - VSCodium
-        - Another editor built on VS Code (Trae, Positron, ...)
         - IntelliJ IDEA
         - PyCharm
         - WebStorm
         - GoLand
         - Rider
         - CLion
-        - Another JetBrains IDE
         - Android Studio
+        - Another JetBrains IDE
+        - Cursor
+        - Windsurf
+        - VSCodium
+        - Another editor built on VS Code (Trae, Positron, ...)
     validations:
       required: true
 
