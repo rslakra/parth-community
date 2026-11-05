@@ -120,7 +120,7 @@ node_modules/
 #   /models/ and /results/ are project-root only: packages/core/src/models/ is source code.
 #   packages/vscode/media/webview.html is copied from packages/webview-ui/dist by the extension build.
 #   parth-conformance-* is what the conformance suite creates (and normally deletes) in the workspace under test.
-.parth
+.parth/
 /models/
 /results/
 packages/vscode/media/webview.html
